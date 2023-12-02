@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"Aplicacio","l":"Aplicacio"},{"p":"Dades","l":"Dades"},{"p":"Dades","l":"Data"},{"p":"Dades","l":"InfoDin"},{"p":"Dades","l":"InfoEst"},{"p":"Dades","l":"Node"},{"p":"Dades","l":"TADcjtRecursos"}]

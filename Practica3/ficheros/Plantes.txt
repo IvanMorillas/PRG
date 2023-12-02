@@ -1,0 +1,17 @@
+Tipus planta;Nom planta;Any inici absorcio(Arbories);Valor absorcio;Any fi absorcio(Arbustives);
+Arboria;Acer pseudoplatanus;5-8;245-390;
+Arboria;Betula alba;4-7-12;190-324-420;
+Arboria;Fraxinus excelsior;5-8-15;230-300-390;
+Arboria;Pinus nigra;5-10;190-270;
+Arboria;Pinus sylvestris;5-10;180-250;
+Arboria;Populus nigra;4-7-14;190-340-430;
+Arboria;Quercus ilex;4-6-10;210.28-374.19-401.94;
+Arbustiva;Corylus Avellana;110;16;
+Arbustiva;Spartium junceum;85;19;
+Arbustiva;Erica multiflora;50;11;
+Arbustiva;Genista scorpius;100;13;
+Finques;
+Finca;Any plantacio;
+Finca 1;2021;
+Finca 2;2006;
+Finca 3;2010;
